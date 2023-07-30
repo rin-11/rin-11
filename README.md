@@ -1,4 +1,4 @@
-![](https://media.tenor.com/RayPt_yZySUAAAAC/parasyte-migi.gif)
+<h1 align="cemter">![](https://media.tenor.com/RayPt_yZySUAAAAC/parasyte-migi.gif)</h1>
 
 <h1 align="center">Hey y'all, Rin here</h1>
 
