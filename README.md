@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rin</h1>
+<h1 align="center">Welcome friends</h1>
 <h3 align="center">I am a NYC-based full stack software engineer.</h3>
 
 <h3 align="left">Connect with me:</h3>
