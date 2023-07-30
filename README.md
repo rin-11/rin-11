@@ -1,5 +1,5 @@
-<h1 align="center">Welcome friends</h1>
-<h3 align="center">I am a NYC-based full stack software engineer.</h3>
+<h1 align="center">Hey hey hey</h1>
+<h3 align="center">I'm Rin. I am a NYC-based environmental project manager turned full stack software engineer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
