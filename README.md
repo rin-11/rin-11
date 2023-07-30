@@ -1,5 +1,4 @@
-<h1 align="center">Hey hey hey</h1>
-<h3 align="center">I'm Rin. I am a NYC-based environmental project manager turned full stack software engineer.</h3>
+<h1 align="center">Hey Hey Hey- Rin here</h1>
 <p align="left">
 My hobbies/interests include music production, science fiction, environmentalism, biology, gaming, and digital art.
 </p>
