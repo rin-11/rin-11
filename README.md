@@ -1,6 +1,6 @@
 <div align='center'>
   <h1 align="center">Thanks for stopping by</h1>
-  <img src='https://64.media.tumblr.com/bd2b9580d378743d17aadbecce502cd1/tumblr_p76fbrREMe1qhmypro1_1280.gif' alt='gif'>
+  <img src='https://31.media.tumblr.com/be4e12220a93a6dd29de0a7e1385d31d/tumblr_mn73ve6vbW1rg5bz8o1_500.gif'>
 <p>
 My name is Rin and I am a full stack engineer. My interiests include biological/environmental sciences, science fiction writing/media, music production, and gaming. To contact me or for more information click here.
 </p>
