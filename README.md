@@ -4,5 +4,5 @@
 <p>
 My name is Rin and I am a full stack engineer. My interiests include biological/environmental sciences, science fiction writing/media, music production, and gaming. To contact me or for more information click here.
 </p>
+<h3>Progerammer Skills:</h3>
 </div>
-<h3 align="left">Progerammer Skills:</h3>
