@@ -1,11 +1,11 @@
 <div>
-  <h1>Greetings</h1>
-  <div align='center'>
+  <h1>Hi, I'm Rin </h1>
+  <pre>Proud Full Stack Software Engineer && SciFi Nerd</pre>
+  <div algin='center'>
   <img src='https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif'>
   <hr>
   </div>
 </div>
-> My name is Rin and I am a Full Stack Software Engineer. 
 <p>
 To contact me or for more information on what I am currently working on check out [my portfolio website](https://rin-eleven.com/)
 </p>
