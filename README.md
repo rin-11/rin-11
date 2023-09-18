@@ -1,5 +1,5 @@
 <div>
-  <h1>Hi, I'm Rin </h1>
+  <h1>Hi, I'm Rin :star_struck:</h1>
   <pre>Proud Full Stack Software Engineer && SciFi Nerd</pre>
 </div>
 <div align="center">
