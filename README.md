@@ -1,6 +1,8 @@
-<div align='center'>
+<div>
   <h1>Hello there, Future Friends</h1>
+  <hr>
   <img src='https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif'>
+  <hr>
 <p>
 </div>
 To contact me or for more information on what I am currently working on check out my portfolio website: https://rin-eleven.com/
