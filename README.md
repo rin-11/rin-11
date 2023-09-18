@@ -1,7 +1,7 @@
 <div>
   <h1>Hello there, Future Friends</h1>
   <hr>
-  <div align='center'
+  <div align='center'>
   <img src='https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif'>
   <hr>
   </div>
