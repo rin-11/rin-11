@@ -1,10 +1,12 @@
 <div>
   <h1>Hello there, Future Friends</h1>
   <hr>
+  <div align='center'
   <img src='https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif'>
   <hr>
-<p>
+  </div>
 </div>
+<p>
 To contact me or for more information on what I am currently working on check out my portfolio website: https://rin-eleven.com/
 </p>
 <h3>Programmer Skills:</h3>
