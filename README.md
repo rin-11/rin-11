@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1 align="center">Hello there, Future Friends</h1>
+  <h1>Hello there, Future Friends</h1>
   <img src='https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif'>
 <p>
 </div>
