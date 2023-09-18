@@ -22,6 +22,6 @@ For more information on how to contact me or what I am curently working on check
 <img src='https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png' alt='MongoDB' width='50' height='50'>
 <img src='https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png' alt='Django' width='50' height='50'>
 <img src='https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-512.png' alt='Firebase' width='50' height='50'>
-<img src='https://d33wubrfki0l68.cloudfront.net/f56ad0f0dcecea5eefc91d3e7205190003158142/972e2/blog/python-api-deployment-rstudio-flask/flask.png' alt='Flask' width='50' height='50'>
+<img src='https://static-00.iconduck.com/assets.00/programming-language-flask-icon-2048x1826-wf5k5ugs.png' alt='Flask' width='50' height='50'>
  </p>
 </div>
