@@ -6,7 +6,7 @@
   <img src='https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif'>
 </div>
 <hr>
-<p>
+<p align = 'center'>
 For more information on how to contact me or what I am curently working on check out my <a href="https://rin-eleven.com/">portfolio website</a>
 </p>
 <h3>Programmer Skills:</h3>
