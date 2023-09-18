@@ -1,11 +1,11 @@
 <div>
   <h1>Hi, I'm Rin </h1>
   <pre>Proud Full Stack Software Engineer && SciFi Nerd</pre>
-  <div align="center">
-  <img src='https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif'>
-  </div>
-  <hr>
 </div>
+<div align="center">
+  <img src='https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif'>
+</div>
+<hr>
 <p>
 To contact me or for more information on what I am currently working on check out [my portfolio website](https://rin-eleven.com/)
 </p>
