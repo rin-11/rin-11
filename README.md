@@ -1,6 +1,6 @@
 <div>
   <h1>Hi, I'm Rin :star_struck:</h1>
-  <pre algin = 'center'>                  Proud Full Stack Software Engineer && SciFi Nerd</pre>
+  <pre algin = 'center'>                                  Proud Full Stack Software Engineer && SciFi Nerd</pre>
 </div>
 <div align="center">
   <img src='https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif'>
