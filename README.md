@@ -26,9 +26,9 @@ For more information on how to contact me or what I am curently working on check
 </div>
 <div align='center'>
   <a href="https://github.com/rin-11/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rin-11&show_icons=true&theme=cobalt&rank_icon=github&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rin-11&show_icons=true&theme=merko&rank_icon=github&hide=issues" />
     </a>
     <a href="https://github.com/rin-11/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin-11&langs_count=8&layout=compact&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin-11&langs_count=8&layout=compact&theme=merko" />
 </a>
 </div>
