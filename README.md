@@ -7,7 +7,7 @@
 </div>
 <hr>
 <p align = 'center'>
-For more information on how to contact me or what I am curently working on check out my <a href="https://rin-eleven.com/">portfolio website</a>
+For more information on how to contact me or what I am curently working on check out my <a href="https://rin-eleven.com/">portfolio website.</a>
 </p>
 <hr>
 <div align='center'>
@@ -22,7 +22,13 @@ For more information on how to contact me or what I am curently working on check
 <img src='https://camo.githubusercontent.com/258e4f46e082ec3dcfa3c4a90970a3d69d992c78c977ba7e0dd47b100a66f6f2/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656163742e737667' alt='React' width='50' height='50'>
 <img src='https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png' alt='MongoDB' width='50' height='50'>
 <img src='https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png' alt='Django' width='50' height='50'>
-<img src='https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-512.png' alt='Firebase' width='50' height='50'>
-<img src='https://static-00.iconduck.com/assets.00/programming-language-flask-icon-2048x1826-wf5k5ugs.png' alt='Flask' width='50' height='50'>
  </p>
+</div>
+<div align='center'>
+  <a href="https://github.com/rin-11/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rin-11&show_icons=true&theme=cobalt&rank_icon=github&hide=issues" />
+    </a>
+    <a href="https://github.com/rin-11/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin-11&langs_count=8&layout=compact&theme=cobalt" />
+</a>
 </div>
