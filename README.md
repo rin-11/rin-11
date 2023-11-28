@@ -7,7 +7,7 @@
 </div>
 <hr>
 <p align = 'center'>
-For more information on how to contact me or what I am curently working on check out my <a href="https://rin-eleven.com/">portfolio website.</a>
+<a href="https://rin-eleven.com/">Head to my portfolio to check out some of my completed projects.</a>
 </p>
 <hr>
 <div align='center'>
