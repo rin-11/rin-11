@@ -14,6 +14,8 @@
 <hr>
 <div align='center'>
 <h3>Programmer Skills:</h3>
+  <link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+  <i class="programming lang-typescript"></i>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png' alt='HTML' width='50' height='50' >
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png' alt='CSS' width='50' height='50'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png' alt='Javascript' width='50' height='50'>
