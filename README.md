@@ -6,8 +6,8 @@
   <img src='https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif'>
 </div>
 <hr>
-<p>
-<a href="https://rin-eleven.com/">Head to my portfolio site to check out some of my completed projects :sparkles:</a>
+<p align="center>
+:sparkles: <a href="https://rin-eleven.com/">Head to my portfolio site to check out some of my completed projects</a> :sparkles:
 </p>
 <hr>
 <div align='center'>
