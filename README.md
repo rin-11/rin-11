@@ -7,7 +7,9 @@
 </div>
 <hr>
 <p align="center>
-:sparkles: <a href="https://rin-eleven.com/">Head to my portfolio site to check out some of my completed projects</a> :sparkles:
+:sparkles:
+<a href="https://rin-eleven.com/">Head to my portfolio site to check out some of my completed projects"</a> 
+:sparkles:
 </p>
 <hr>
 <div align='center'>
