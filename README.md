@@ -9,7 +9,7 @@
 <p align = 'center'>
 <a href="https://rin-eleven.com/">Head to my portfolio site to check out some of my completed projects</a>
   <br>
-<a href="https://www.linkedin.com/in/erinkates/">![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})</a>
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 </p>
 <hr>
 <div align='center'>
