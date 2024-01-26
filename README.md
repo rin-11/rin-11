@@ -20,7 +20,7 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png' alt='Python' width='50' height='50'>
 <img src='https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png' alt='MySQL' width='50' height='50'>
 <img src='https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png' alt='Typescript' width='50' height='50'>
-<img src='https://camo.githubusercontent.com/258e4f46e082ec3dcfa3c4a90970a3d69d992c78c977ba7e0dd47b100a66f6f2/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656163742e737667' alt='React' width='50' height='50'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png' alt='React' width='50' height='50'>
 <img src='https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png' alt='MongoDB' width='50' height='50'>
 <img src='https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png' alt='Django' width='50' height='50'>
  </p>
