@@ -23,6 +23,7 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png' alt='React' width='50' height='50'>
 <img src='https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png' alt='MongoDB' width='50' height='50'>
 <img src='https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png' alt='Django' width='50' height='50'>
+<img src='https://cdn.worldvectorlogo.com/logos/postman.svg' alt='Postman' width='50' height='50'>
  </p>
 </div>
 <div align='center'>
